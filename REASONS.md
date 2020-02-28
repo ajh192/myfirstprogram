@@ -1,0 +1,3 @@
+The reason that I chose the Apache license is because I wanted a more lenient license. My program is not very complex and similar programs have been written before. So, my program doesn't mean a whole lot to me personally.
+
+The reason that I chose the Contributer Covenant code of conduct is because it has been widely utilized by other programmers. This, I assume, means that the writing has been highly edited and covers a
